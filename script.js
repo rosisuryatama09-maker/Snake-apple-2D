@@ -3,7 +3,7 @@
 // ======================================================
 
 const API_URL =
-    "MASUKKAN_URL_GOOGLE_APPS_SCRIPT_DISINI";
+    "https://script.google.com/macros/s/AKfycbxEqspHG6axtbV7dcMyOsv0RC30AiNutA0E271Ifm3EFYBPzOrE7eD19MtL0e3VFjoDaA/exec";
 
 
 let username = "";
